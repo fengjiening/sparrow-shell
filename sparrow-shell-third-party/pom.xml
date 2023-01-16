@@ -6,7 +6,6 @@
         <groupId>com.fengjiening</groupId>
         <artifactId>sparrow-shell</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>sparrow-shell-third-party</artifactId>
     <version>0.0.1-SNAPSHOT</version>
@@ -17,6 +16,7 @@
             <groupId>org.springframework.shell</groupId>
             <artifactId>spring-shell-starter</artifactId>
             <version>2.0.0.RELEASE</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 

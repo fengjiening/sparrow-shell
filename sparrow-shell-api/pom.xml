@@ -6,7 +6,6 @@
         <groupId>com.fengjiening</groupId>
         <artifactId>sparrow-shell</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>sparrow-shell-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
